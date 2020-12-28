@@ -1,7 +1,5 @@
 # Bussiness.com
-New illustration based website
-
-https://maggix1404.github.io/Bussiness.com/
+New illustration based website,for fun
 
 ### screenshots
 ![screenshot](img1.png)
